@@ -1,6 +1,6 @@
 
 import { connect } from 'cloudflare:sockets';
-
+let pedght = 'pp';
 let userID = '';
 let proxyIP = '';
 //let sub = '';
